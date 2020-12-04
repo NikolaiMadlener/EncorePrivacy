@@ -1,6 +1,6 @@
-##Privacy Policy
+***Privacy Policy***
 
-Nikolai Madlener built the encore. app as [open source/free/freemium/ad-supported/commercial] app. This SERVICE is provided by Nikolai Madlener at no cost and is intended for use as is.
+Nikolai Madlener built the encore. app as a free app. This SERVICE is provided by Nikolai Madlener at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
